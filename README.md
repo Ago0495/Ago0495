@@ -7,4 +7,5 @@ I like working on low-level systems and understanding how things work under the 
 - Computer Graphics
 - Software Engineering
 
-check out my [games](https://rexsem.itch.io)
+## My Games/Projects
+https://rexsem.itch.io
